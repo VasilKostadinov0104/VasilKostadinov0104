@@ -1,4 +1,4 @@
-### Hello, fellas! It's [faslin_kosta][youtube] here 👋
+### Hello, fellas! It's [faslin_kosta][youtube] here 👋 *The slujeben profile*
 
 ## I'm a **Developer** and a Wannabe-Teacher-Mentor-Guru-DiscordMaster-BlogWriter-YoutubeShortsWithCodingTipsCreator and all of those amazing things if i had time...
 
