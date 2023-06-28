@@ -61,6 +61,10 @@ my wife, tiktok videos, youtube shorts, daydrinking, sleepwalking ... How do I m
 <br />
 <br />
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VasilKostadinov0104&theme=react&border_radius=12&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=45%2C2E2300%2C01074A)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilKostadinov0104&show_icons=true&theme=react&bg_color=45%2C2E2300%2C01074A&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+
 [strapi]: https://strapi.io
 [vscode]: https://code.visualstudio.com/
 [ohmyzsh]: https://ohmyz.sh/
