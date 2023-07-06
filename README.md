@@ -16,7 +16,7 @@ my wife, tiktok videos, youtube shorts, daydrinking, sleepwalking ... How do I m
 ...🗿... 🇩🇪 Ze Projects vill be vritten hier, wann sie fertig sein.
 
 - 📰 [Pilot](https://pilot.bg)
-- 🐶 [ZooMallClub - Android](https://play.google.com/store/apps/details?id=zoomall.ionic.starter) && [ZooMallClub - iOS] please tell me how to find link wihtout an applephone :(
+- 🐶 [ZooMallClub - Android](https://play.google.com/store/apps/details?id=zoomall.ionic.starter) && [ZooMallClub - iOS](https://apps.apple.com/bg/app/zoomall-club/id1315450506)
 - 🪙 [VGE Metaverse](https://vgemeta.com)
 - 🏃🏻 [Borntomove](https://borntomoveshop.com/)
 - 📕 [Hookpoint](https://hookpoint.com)
