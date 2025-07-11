@@ -1,9 +1,9 @@
-### Hello, fellas! It's [faslin_kosta][youtube] here 👋 *The slujeben profile*
+### Hello, fellas! It's [faslin_kosta][mysite] here 👋 *The work profile*
 
 ## I'm a **Developer** and a Wannabe-Teacher-Mentor-Guru-DiscordMaster-BlogWriter-YoutubeShortsWithCodingTipsCreator and all of those amazing things if i had time...
 
 - ⚛️ Harworking Mid Fullstack React Developer... Huh, that was a long one, lets keep it short and call it HMFRD from now on.
-- 👨🏻‍🎓 Graduated UnIvErSiTy ✨ Not that anyone cares
+- 👨🏻‍🎓 Graduated ✨ UnIvErSiTy ✨ Not that anyone cares
 - 👨🏻‍💻 When at work, I'm abusing next.js to the fullest and pushing out projects from static sites to full on multiplatform applications
 - 🥳 When free, I'm doing: mini sideprojects, usefull snippets, blogs, npm packages, personal sites, freelance projects, designs,
 my wife, tiktok videos, youtube shorts, daydrinking, sleepwalking ... How do I manage to do all of this?? I didn't say I do all of them at the same time... Maybe one of them... once a month...
@@ -15,7 +15,11 @@ my wife, tiktok videos, youtube shorts, daydrinking, sleepwalking ... How do I m
 
 ...🗿... 🇩🇪 Ze Projects vill be vritten hier, wann sie fertig sein.
 
+- ⚡️ [Trigani](https://trigani.com)
+- 🌏 [Hristo hits the road](https://hristohitstheroad.com)
+- 🏠 [Faslin Kosta](https://faslinkosta.com)
 - 📰 [Pilot](https://pilot.bg)
+- 🟩 [Easybook.bg](https://easybook.bg)
 - 🐶 [ZooMallClub - Android](https://play.google.com/store/apps/details?id=zoomall.ionic.starter) && [ZooMallClub - iOS](https://apps.apple.com/bg/app/zoomall-club/id1315450506)
 - 🪙 [VGE Metaverse](https://vgemeta.com)
 - 🏃🏻 [Borntomove](https://borntomoveshop.com/)
@@ -26,15 +30,8 @@ my wife, tiktok videos, youtube shorts, daydrinking, sleepwalking ... How do I m
 
 ### In progress: (oh gosh let's not forget to update this one)
 
-- Easybook.bg
-- My personal website
-
-### Get inspired:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/m258987/m258987/blob/main/yt.png?raw=true" />][youtube]
-[<img align="left" alt="codeSTACKr | Codepen" width="22px" src="https://raw.githubusercontent.com/m258987/m258987/main/codepen.webp" />][codepen]
-[<img align="left" alt="codeSTACKr | TikTok" width="22px" src="https://raw.githubusercontent.com/m258987/m258987/main/tiktok.webp" />][tiktok]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/m258987/m258987/blob/main/ig.png?raw=true" />][instagram]
+- Another news aggregator.
+- React text editor package.
 
 
 <br />
@@ -79,3 +76,4 @@ my wife, tiktok videos, youtube shorts, daydrinking, sleepwalking ... How do I m
 [ts]: https://www.typescriptlang.org/
 [gql]: https://graphql.org/
 [node]: https://nodejs.org/
+[mysite]: https://faslinkosta.com
